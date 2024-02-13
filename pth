@@ -1,0 +1,49 @@
+number = 10
+result = number + 6
+print(result)
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>baby products</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+    }
+    h1 {
+      color: #333;
+    }
+    .product {
+      border: 1px solid #ccc;
+      padding: 10px;
+      margin-bottom: 20px;
+    }
+    .product img {
+      width: 200px;
+      height: 200px;
+    }
+  </style>
+</head>
+<body>
+  <h1>baby products </h1>
+
+  <div class="product">
+    <img src="toy1.jpg" alt="toy 1">
+    <h3>toy 1</h3>
+    <p>price: $10</p>
+  </div>
+
+  <div class="product">
+    <img src="toy2.jpg" alt="toy 2">
+    <h3>toy 2</h3>
+    <p>price: $15</p>
+  </div>
+
+  <div class="product">
+    <img src="toy3.jpg" alt="toy 3">
+    <h3>toy 3</h3>
+    <p>price: $12</p>
+  </div>
+
+</body>
+</html>
